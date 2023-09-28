@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storify-dev",
+  "private_key_id": "dd8863c672bb727d092cc2a737a5a404a24e2435",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCN+3StrHjEJKVs\nse4fQThgnJ5DC3gFO+2moObbBeGUwl99DZMiVhkcfcuT4h5uk0QN7zz2vRo26yfp\n8QiL/3XOENjEs/KYiJH0FmImMaVH5RmIpXfnbfYGoFI8iy5jFLoje0j6pJrVFWoo\nrLTD0zZAC6QjANw2sdvCj6mtN62VT3Mlcpk5B2j2ZYuDDkIKsIgQoK+tTaa7LEEP\n5RfKcTSbRkEaLiGhDwUtkEA7GWZ9oMelqF+SZHLWGaAsOf55R2hx9nAj3UknhqNR\nt56NPeWBuVkt1AyAEfyjkeRp0z623eEnUzxiDHOHh7I1Cdsuk+R57MswwDmlhUEi\nQ0Euw2F1AgMBAAECggEAFDodCrr173eLC5ujoVdAyV62mzWQkSpS9niYut4xH2i7\ngszCx9L9O9ZeAMDndfhL6zJIfJw/FlDU/FqGza8EoOk8gHVkW7+lD2F69RcAhWgJ\nhbKRDOrY8GO5o39uidYDmJdxM6fsmOu2lnnYPMejxGcEKKpwNOiMtsCRuygh9hHH\nq1xjYIAlb910tiVz9Ju79WiQ6QU8Uk5nCj9swu/qY6TMczJw/Qr/F0caeDftTVLq\nTEc11ZXuBbpBUIO4Ld/P45yfwFY4+2CFUldc8MS+tY6jV771DBAy13d3g0FXSjhC\nXMiZKV63WU8hwFU0c4es21FFDnPxlqUvwq1ytTNOMQKBgQDFCEDCEBm0yHqldJMo\nEy+WBphcGkVHRBZbU+e8aY35WVJNKJd5u7i2Ebr0s307PF4vLnI1MFPbkYN+TWzx\nHtfDb5yiaXVuEQPUpBHiRn5uImi+gmdj3QB3xkeF4NfLy757u9Sb6uRgo3xl1+6J\nzUq4xNvguLdliyUI8H2NhG6KiQKBgQC4eYOHl5sT28y/w0Pq2Fmm3YfGtJqFnjFn\nNDlgog7xSuLvyjCjKpzCWCn5AKs/vnNX++SooIFEdRjkxdW2GkL1KGUJGwutXRMK\ne8fIT0+0unXwMYmegUf57SvoM34ySiEKAL0ha00R8bMPuhmxPrvsaPzjuzmzxfVF\n8uvta4N0jQKBgF8r5VvXuxL/434YGRy6Z7nn5aBXcC9ETChBFyaDNfjDlGWAveon\nKsmHNu8L4+nA9x2DKddXSKo+V22iqISviTj1qIsqtXY88cS8m4bY1ikMpduf0aED\nFz7Dn7ijKpleCNxrlf7aLwYe8e+fpbEaYIVvUWXy02NRGsp+n6bD2UFBAoGAYRx2\nxTZmCLo4uupMIqDp8RHFnDEO9zAjybSQT/J/8z384UaK/Bo+k4Bd+BsGC3Ryu+p6\noNp9slACXsxWiJqijPRK29RE/Wp1z5sBvM0jpHxUAbHSRILCJStZZc9Vq5uicOWa\nqrEVzVBzdt/9DnV78CQEnM2+voiDaeNLl5x1gzECgYA3pAUYDNRtgD4IlqyLGXFQ\nSaky2OuU35lg4DXRR85U+qd4hSO5YRbLP9P08KxE8uLSFg5Z3DoOANNjPUM+UtG1\npqMggysp3vc37fHFCtC5y0VZYBicMBysJqerZB8nCvOBASb9/KYqkMoLMcAGFdbD\ndX1TTg8Ek6eJWiFWE7HJBw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storify-stage-sa@storify-dev.iam.gserviceaccount.com",
+  "client_id": "101292217577157785798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storify-stage-sa%40storify-dev.iam.gserviceaccount.com"
+}
